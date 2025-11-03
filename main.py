@@ -16,6 +16,6 @@ pg = st.navigation(
         {
             "Menu": [home,travelling,genetic]
         }
-    )
+)
 
 pg.run()
